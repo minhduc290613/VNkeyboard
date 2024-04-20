@@ -1,2 +1,2 @@
 # lunar-clent-package
-lunarpackage
+not lunar
